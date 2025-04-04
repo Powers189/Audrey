@@ -42,7 +42,13 @@ export function Layout({ children }: { children: React.ReactNode }) {
 }
 
 export default function App() {
-  return <Outlet />;
+  
+  return (
+  <>
+  <h1>this is a header that will stick on all pages</h1>
+  <Outlet />
+  <footer>This is footer that will stick on all pages</footer>
+  </>);
 }
 
 export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {
