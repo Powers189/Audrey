@@ -10,6 +10,8 @@ import {
 import type { Route } from "./+types/root";
 import "./app.css";
 
+import Navbar from "./components/Navbar";
+
 export const links: Route.LinksFunction = () => [
   { rel: "preconnect", href: "https://fonts.googleapis.com" },
   {
@@ -42,13 +44,13 @@ export function Layout({ children }: { children: React.ReactNode }) {
 }
 
 export default function App() {
-  
   return (
-  <>
-  <h1>this is a header that will stick on all pages</h1>
-  <Outlet />
-  <footer>This is footer that will stick on all pages</footer>
-  </>);
+    <>
+      <Navbar />
+      <Outlet />
+      <footer>This is footer that will stick on all pages</footer>
+    </>
+  );
 }
 
 export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {
