@@ -7,6 +7,8 @@ import {
   ScrollRestoration,
 } from "react-router";
 
+import { BrowserRouter } from "react-router-dom";
+
 import type { Route } from "./+types/root";
 import "./app.css";
 
@@ -47,8 +49,10 @@ export default function App() {
   return (
     <>
       <Navbar />
-      <Outlet />
-      <footer>This is footer that will stick on all pages</footer>
+      <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+        <Outlet />
+        <footer>This is footer that will stick on all pages</footer>
+      </div>
     </>
   );
 }

@@ -1,9 +1,9 @@
 import React from "react";
-
+import ImageGallery from "~/components/Gallery";
 function About() {
   return (
     <div className="bg-purple-100 min-h-screen p-2">
-      <h1 className="text-3xl font-bold">About</h1>
+      <ImageGallery category="paintings" />
     </div>
   );
 }
