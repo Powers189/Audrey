@@ -49,7 +49,7 @@ export default function App() {
   return (
     <>
       <Navbar />
-      <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-[2400px] px-2 sm:px-6 lg:px-8">
         <Outlet />
         <footer>This is footer that will stick on all pages</footer>
       </div>

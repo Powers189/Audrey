@@ -1,0 +1,339 @@
+[
+    {
+      "src": "/images/paintings/IMG_20190715_103211887.jpg",
+      "title": "Sunset in the Valley",
+      "date": "2023-07-15",
+      "refSrc": "/images/paintings/Tree.jpg"
+    },
+    {
+      "src": "/images/paintings/IMG_20190715_103242990.jpg",
+      "title": "Storm Over the Sea",
+      "date": "2022-09-10",
+      "refSrc": null
+    },
+     {
+      "src": "/images/paintings/IMG_20190715_104053.jpg",
+      "title": "Storm Over the Sea",
+      "date": "2022-09-10",
+      "refSrc": null
+    },
+    {
+        "src": "/images/paintings/IMG_20190715_104135.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": "/images/paintings/Tree.jpg"
+      },
+      {
+        "src": "/images/paintings/IMG_20190715_104246.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20190715_104351.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20190715_104520.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20190715_104601.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20190809_143330593.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20190912_194303.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+
+      {
+        "src": "/images/paintings/IMG_20190912_194504.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20190912_194718.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20191124_174713.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20191226_160012.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20191226_160136.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20200313_200828967.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20200606_162030.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20200606_162744.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20200606_162837.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20200606_162944.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20200606_163538.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20200705_095804.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20200705_100128.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20200705_101426.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20200808_204650.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20200808_205042.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20200808_205236.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20200823_155431898.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20201009_223320241.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",  
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20210108_174228604.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",  
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20210108_174234685.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",  
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20210514_120103799.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",  
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20210517_205320749.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",   
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20220327_121914905_BURST000_COVER_TOP.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",   
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20220327_122713252~2.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",  
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20220327_122713252~2.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",  
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20220528_220847003.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10", 
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20220718_190847061_BURST000_COVER_TOP~2.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",  
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20230525_175141202.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",   
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20230609_174107954.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",  
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20230623_222636388_BURST001.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",  
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20230623_225831054.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",  
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20230713_171845209.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10", 
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20230713_172217552.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20230718_221409303.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",  
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20231011_194059343_MF_PORTRAIT.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",  
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20240514_190231717.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10", 
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20240514_190245076.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20240514_190253371.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",  
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20240514_190258877.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10", 
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20240514_190306809~2.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20240514_190318472~2.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",   
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20240514_190326785~2.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",   
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20240514_190334348.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20240514_190341848.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20240514_190820501~2.jpg",
+        "title": "Storm Over the Sea",
+        "date": "2022-09-10",       
+        "refSrc": null
+      }
+  ]

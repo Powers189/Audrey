@@ -1,3 +1,6 @@
+//This was used to extract metadata from the images but it's not currently being used.
+// See \public\images.json for current implimentation on how tiltes and dates are set up
+
 import express from "express";
 import cors from "cors"; //middleware
 import fs from "fs-extra";
@@ -41,7 +44,7 @@ const readImagesWithMetadata = async (dirPath, urlPrefix) => {
   return images;
 };
 
-// Route where catergory is the type of images ie paintings, fiber arts etc and also the name of the folder they are stored in
+// Route, where catergory is the type of images ie paintings, fiber arts etc and also the name of the folder they are stored in
 app.get("/images/:category", async (req, res) => {
   const { category } = req.params;
   const folderPath = path.join(IMAGES_BASE_DIR, category); //full path to images
@@ -64,7 +67,7 @@ app.get("/images/:category", async (req, res) => {
   }
 });
 
-// Serve static folders (you can wildcard this too if needed)
+// Serve static folders
 app.use(
   "/images/paintings",
   express.static(path.join(IMAGES_BASE_DIR, "paintings"))
