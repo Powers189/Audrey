@@ -40,7 +40,9 @@ const Modal: React.FC<ModalProps> = ({ image, onClose }) => {
           />
           <div className="mt-4 text-gray-800">
             <h2 className="text-xl font-semibold">{image.title}</h2>
-            <p className="text-sm text-gray-600">Date: {image.date}</p>
+            {image.date && (
+              <p className="text-sm text-gray-600">Date: {image.date}</p>
+            )}
             {image.refSrc && (
               <a
                 href={image.refSrc}

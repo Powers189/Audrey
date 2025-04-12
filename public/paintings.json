@@ -1,339 +1,483 @@
 [
     {
       "src": "/images/paintings/IMG_20190715_103211887.jpg",
-      "title": "Sunset in the Valley",
+      "title": "Tree on Moon",
       "date": "2023-07-15",
       "refSrc": "/images/paintings/Tree.jpg"
     },
     {
       "src": "/images/paintings/IMG_20190715_103242990.jpg",
-      "title": "Storm Over the Sea",
-      "date": "2022-09-10",
+      "title": "Beach Scene",
+      "date": null,
       "refSrc": null
     },
      {
       "src": "/images/paintings/IMG_20190715_104053.jpg",
-      "title": "Storm Over the Sea",
-      "date": "2022-09-10",
+      "title": "Cave with Tree",
+      "date": null,
       "refSrc": null
     },
     {
         "src": "/images/paintings/IMG_20190715_104135.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Abandoned Car",
+        "date": null,
         "refSrc": "/images/paintings/Tree.jpg"
       },
       {
         "src": "/images/paintings/IMG_20190715_104246.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Twilight Blossom",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20190715_104351.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Window Flowers",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20190715_104520.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Book and Glass and Branch Still life",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20190715_104601.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Painting with a Twist Sunset",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20190809_143330593.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Painting with a Twist Abstract Flower Field",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20190912_194303.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Teepee",
+        "date": null,
         "refSrc": null
       },
 
       {
         "src": "/images/paintings/IMG_20190912_194504.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Arizona Sky",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20190912_194718.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Kid with Bike",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20191124_174713.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Blue Bird",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20191226_160012.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Twilight Raven",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20191226_160136.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Ballon Ride",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20200313_200828967.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Audrey Hepurn",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20200606_162030.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Spirals",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20200606_162744.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Inked Farm",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20200606_162837.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Italy",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20200606_162944.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Inked Still life",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20200606_163538.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Water color Pig",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20200705_095804.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Portrait Exercise",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20200705_100128.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Beutiful Rainbows",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20200705_101426.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Bubbles",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20200808_204650.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Portrait Exercise",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20200808_205042.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Portrait Exercise",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20200808_205236.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Portrait Exercise",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20200823_155431898.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Don't do to me what you did to America",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20201009_223320241.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",  
+        "title": "Staue crazy colors",
+        "date": null,  
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20210108_174228604.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",  
+        "title": "Bunny Ballon",
+        "date": null,  
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20210108_174234685.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",  
+        "title": "Dog Ballon",
+        "date": null,  
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20210514_120103799.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",  
+        "title": "Rose",
+        "date": null,  
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20210517_205320749.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",   
+        "title": "Statue of David",
+        "date": null,   
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20220327_121914905_BURST000_COVER_TOP.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",   
-        "refSrc": null
-      },
-      {
-        "src": "/images/paintings/IMG_20220327_122713252~2.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",  
-        "refSrc": null
-      },
-      {
-        "src": "/images/paintings/IMG_20220327_122713252~2.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",  
+        "title": "Olivia Hye",
+        "date": null,   
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20220528_220847003.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10", 
-        "refSrc": null
-      },
-      {
-        "src": "/images/paintings/IMG_20220718_190847061_BURST000_COVER_TOP~2.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",  
+        "title": "Harry Styles",
+        "date": null, 
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20230525_175141202.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",   
+        "title": "Octopus Head",
+        "date": null,   
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20230609_174107954.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",  
+        "title": "There There Janie, Their Eyes were watching God",
+        "date": null,  
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20230623_222636388_BURST001.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",  
+        "title": "Disgust",
+        "date": null,  
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20230623_225831054.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",  
+        "title": "Disgust",
+        "date": null,  
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20230713_171845209.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10", 
+        "title": "Kim Lip Eclipse",
+        "date": null, 
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20230713_172217552.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Brown Hall",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20230718_221409303.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",  
+        "title": "Kitty Adventure",
+        "date": null,  
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20231011_194059343_MF_PORTRAIT.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",  
+        "title": "Portrait Exercise",
+        "date": null,  
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20240514_190231717.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10", 
+        "title": "English Tea Time",
+        "date": null, 
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20240514_190245076.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Flower Hat Bunny",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20240514_190253371.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",  
+        "title": "Marquez Hall",
+        "date": null,  
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20240514_190258877.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10", 
-        "refSrc": null
-      },
-      {
-        "src": "/images/paintings/IMG_20240514_190306809~2.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
-        "refSrc": null
-      },
-      {
-        "src": "/images/paintings/IMG_20240514_190318472~2.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",   
-        "refSrc": null
-      },
-      {
-        "src": "/images/paintings/IMG_20240514_190326785~2.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",   
+        "title": "Tea Time in the Rain",
+        "date": null, 
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20240514_190334348.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Rec Center",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20220327_122713252.jpg",
+        "title": "Allison",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20220718_19084706.jpg",
+        "title": "Lee Know",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20240514_190306809.jpg",
+        "title": "The M",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20240514_190318472.jpg",
+        "title": "Cat in Box",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20240514_190326785.jpg",
+        "title": "Field Mouse on Wheat",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20240514_190820501.jpg",
+        "title": "Soobin",
+        "date": null,
         "refSrc": null
       },
       {
         "src": "/images/paintings/IMG_20240514_190341848.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",
+        "title": "Cowboy Crab",
+        "date": null,
         "refSrc": null
       },
       {
-        "src": "/images/paintings/IMG_20240514_190820501~2.jpg",
-        "title": "Storm Over the Sea",
-        "date": "2022-09-10",       
+        "src": "/images/paintings/IMG_20191226_160205.jpg",
+        "title": "Tomatoes Still Life",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20200808_205454.jpg",
+        "title": "Portrait Exercise",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20200828_170119363.jpg",
+        "title": "Floating",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20210203_184550685.jpg",
+        "title": "Arches",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20220312_143249532.jpg",
+        "title": "Jinsol",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20220327_121619923.jpg",
+        "title": "Niki",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20220528_221801977.jpg",
+        "title": "Portrait Exercise",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_20230713_171928438.jpg",
+        "title": "Portrait Exercise",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_3334.jpg",
+        "title": "Mouse on Berries",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_3371.jpg",
+        "title": "idk",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_4236.jpg",
+        "title": "Luna",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_4356.jpg",
+        "title": "Rainbow Cat",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_4357.jpg",
+        "title": "Klara and the Sun",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_4358.jpg",
+        "title": "Pomegranet",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_4359.jpg",
+        "title": "Still Life",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_4360.jpg",
+        "title": "Klara",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_4361.jpg",
+        "title": "Sabrina Carpenter",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_4236.jpg",
+        "title": "Luna",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_4363.jpg",
+        "title": "Bunny in Hat",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_4364.jpg",
+        "title": "Neptune",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_4365.jpg",
+        "title": "Flea",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_4366.jpg",
+        "title": "Teacup Chick",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_4367.jpg",
+        "title": "Marquez inside",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_4368.jpg",
+        "title": "Wonyoung",
+        "date": null,
+        "refSrc": null
+      },
+      {
+        "src": "/images/paintings/IMG_4369.jpg",
+        "title": "Killer Spirals",
+        "date": null,
         "refSrc": null
       }
   ]

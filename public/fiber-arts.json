@@ -1,38 +1,93 @@
 [
-    {
-      "src": "/images/fiber-arts/07-lark-to-other-planets.jpeg",
-      "title": "Sunset in the Valley",
-      "date": "2023-07-15",
-      "refSrc": "/images/fiber-arts/Tree.jpg"
-    },
-    {
-        "src": "/images/fiber-arts/33681501792_c2e314d2c1_o.jpg",
-        "title": "Sunset in the Valley",
-        "date": "2023-07-15",
-        "refSrc": "/images/fiber-arts/Tree.jpg"
+      {
+        "src": "/images/fiber-arts/IMG_3225.jpg",
+        "title": "Pink Dress",
+        "date": "2022-09-10",       
+        "refSrc": null
       },
       {
-        "src": "/images/fiber-arts/8166860410_d84e60ff78_o.jpg",
-        "title": "Sunset in the Valley",
-        "date": "2023-07-15",
-        "refSrc": "/images/fiber-arts/Tree.jpg"
+        "src": "/images/fiber-arts/IMG_3231.jpg",
+        "title": "Pink Dress",
+        "date": "2022-09-10",       
+        "refSrc": null
       },
       {
-        "src": "/images/fiber-arts/edit-pd17-366-num-falco-rusticolus-iceland-or-jer-falcon-id-277200-jpeg.jpg",
-        "title": "Sunset in the Valley",
-        "date": "2023-07-15",
-        "refSrc": "/images/fiber-arts/Tree.jpg"
+        "src": "/images/fiber-arts/IMG_3235.jpg",
+        "title": "Pink Dress",
+        "date": "2022-09-10",       
+        "refSrc": null
       },
       {
-        "src": "/images/fiber-arts/fisk04-edit.jpg",
-        "title": "Sunset in the Valley",
-        "date": "2023-07-15",
-        "refSrc": "/images/fiber-arts/Tree.jpg"
+        "src": "/images/fiber-arts/IMG_3239.jpg",
+        "title": "Pink Dress",
+        "date": "2022-09-10",       
+        "refSrc": null
       },
       {
-        "src": "/images/fiber-arts/27099215969_ef2d218f9f_b.jpg",
-        "title": "Storm Over the Sea",
+        "src": "/images/fiber-arts/IMG_3240.jpg",
+        "title": "Pink Dress",
+        "date": "2022-09-10",       
+        "refSrc": null
+      },
+      {
+        "src": "/images/fiber-arts/IMG_4370.jpg",
+        "title": "Axolotl",
+        "date": "2022-09-10",       
+        "refSrc": null
+      },
+      {
+        "src": "/images/fiber-arts/IMG_4379.jpg",
+        "title": "Duck",
+        "date": "2022-09-10",       
+        "refSrc": null
+      },
+      {
+        "src": "/images/fiber-arts/IMG_4384.jpg",
+        "title": "Quakers",
+        "date": "2022-09-10",       
+        "refSrc": null
+      },
+      {
+        "src": "/images/fiber-arts/IMG_4385.jpg",
+        "title": "Totero",
+        "date": "2022-09-10",       
+        "refSrc": null
+      },
+      {
+        "src": "/images/fiber-arts/IMG_4386.jpg",
+        "title": "Alien",
+        "date": "2022-09-10",       
+        "refSrc": null
+      },
+      {
+        "src": "/images/fiber-arts/IMG_4387.jpg",
+        "title": "Snoopy",
+        "date": "2022-09-10",       
+        "refSrc": null
+      },
+      {
+        "src": "/images/fiber-arts/IMG_4388.jpg",
+        "title": "Snoopy",
+        "date": "2022-09-10",       
+        "refSrc": null
+      },
+      {
+        "src": "/images/fiber-arts/IMG_4389.jpg",
+        "title": "Octopus",
+        "date": "2022-09-10",       
+        "refSrc": null
+      },
+      {
+        "src": "/images/fiber-arts/IMG_4390.jpg",
+        "title": "Eyeball plant",
+        "date": "2022-09-10",       
+        "refSrc": null
+      },
+      {
+        "src": "/images/fiber-arts/IMG_4392.jpg",
+        "title": "Wendigo",
         "date": "2022-09-10",       
         "refSrc": null
       }
+
   ]

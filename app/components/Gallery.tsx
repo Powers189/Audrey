@@ -64,7 +64,10 @@ const ImageGallery: React.FC<{ imageFile: string }> = ({ imageFile }) => {
               {/* Show pic info on hover set with tailwind */}
               <div className="absolute bottom-0 left-0 bg-black bg-opacity-60 text-white p-2 text-sm opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-tr-lg">
                 <p className="font-semibold">Title: {image.title}</p>
-                <p>Date: {image.date}</p>
+
+                {image.date && ( //ternary thing says if refSrc exists then generate the p tag
+                  <p>Date: {image.date}</p>
+                )}
                 {image.refSrc && ( //ternary thing says if refSrc exists then generate the p tag
                   <a
                     href={image.refSrc}

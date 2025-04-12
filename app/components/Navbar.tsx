@@ -26,7 +26,7 @@ const Navbar = () => {
   const currentPath = location.pathname;
 
   return (
-    <Disclosure as="nav" className="bg-gray-800 sticky top-0 z-40">
+    <Disclosure as="nav" className="bg-violet-300 sticky top-0 z-50 w-full">
       <div className="mx-auto max-w-[2400px] px-2 sm:px-6 lg:px-8">
         <div className="relative flex h-16 items-center justify-between">
           <div className="absolute inset-y-0 left-0 flex items-center sm:hidden">
@@ -36,7 +36,7 @@ const Navbar = () => {
               <span className="sr-only">Open main menu</span>
               <Bars3Icon
                 aria-hidden="true"
-                className="block size-6 group-data-open:hidden"
+                className="block size-6 text-white group-data-open:hidden"
               />
               <XMarkIcon
                 aria-hidden="true"
@@ -55,9 +55,9 @@ const Navbar = () => {
                     to={item.href}
                     className={classNames(
                       isCurrent
-                        ? "bg-gray-900 text-white"
-                        : "text-gray-300 hover:bg-gray-700 hover:text-white",
-                      "rounded-md px-3 py-2 text-sm font-medium"
+                        ? "bg-violet-400 text-white font-[VT323] text-3xl"
+                        : "text-white hover:bg-fuchsia-300 hover:text-white font-[VT323] text-3xl",
+                      "rounded-sm px-3 py-2 text-md font-large"
                     )}
                     aria-current={isCurrent ? "page" : undefined}
                   >
@@ -83,9 +83,9 @@ const Navbar = () => {
                 aria-current={isCurrent ? "page" : undefined}
                 className={classNames(
                   isCurrent
-                    ? "bg-gray-900 text-white"
-                    : "text-gray-300 hover:bg-gray-700 hover:text-white",
-                  "block rounded-md px-3 py-2 text-base font-medium"
+                    ? "bg-violet-400 text-white font-[VT323] text-2xl"
+                    : "text-white hover:bg-fuchsia-300 hover:text-white font-[VT323] text-2xl",
+                  "block rounded-sm px-3 py-2 text-base font-medium"
                 )}
               >
                 {item.name}

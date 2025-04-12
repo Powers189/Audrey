@@ -4,8 +4,8 @@ import { FaInstagram, FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
 const Welcome: React.FC = () => {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center px-4 py-12 bg-gray-50 text-gray-800">
-      <div className="max-w-3xl w-full bg-white shadow-md rounded-2xl p-8 space-y-6">
-        <h1 className="text-3xl font-bold text-center">Welcome</h1>
+      <div className="max-w-5xl w-full bg-white shadow-md rounded-2xl p-8 space-y-6">
+        <h1 className="text-8xl font-bold text-center font-[VT323]">Welcome</h1>
 
         <p className="text-lg">
           Hi there! I'm Audrey, a Computer Science graduate from{" "}
