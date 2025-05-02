@@ -8,6 +8,7 @@ import {
 } from "react-router";
 
 import type { Route } from "./+types/root";
+import { hydrateRoot } from "react-dom/client";
 import "./app.css";
 
 import Navbar from "./components/Navbar";
